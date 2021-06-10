@@ -25,6 +25,10 @@ To run the application in development, you can run these commands
 cd [my-app-name]
 composer start
 ```
+You can deploy this API with Heroku Free.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 Or you can use `docker-compose` to run the app with `docker`, so you can run these commands:
 ```bash
