@@ -1,0 +1,7 @@
+{
+    "name": "brighthat",
+    "description": "Example of REST API with Slim PHP Framework.",
+    "repository": "https://github.com/coda247/brighthat/",
+    "logo": "https://raw.githubusercontent.com/maurobonfietti/rest-api-slim-php/master/extras/img/php-logo.jpg",
+    "keywords": ["php", "slim-micro-framework", "rest-api", "mysql", "slim3", "slim", "rest", "api"]
+}
